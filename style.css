@@ -18,13 +18,29 @@ body {
     background-color: #222;
 }
 
+.logo img{
+    width: 170px;
+}
+
 .register {
     color: white;
     border: 1px solid red;
-    font-weight: 600;
+    font-weight: bold;
     font-size: x-large;
 }
 
 .register span{
     margin: 8px;
+}
+
+
+.input-txt {
+    width: 400px;
+    height: 35px;
+}
+
+.input-btn {
+    width: 70px;
+    height: 35px;
+    background-color: rgb(129, 248, 212);
 }
